@@ -126,7 +126,7 @@
             </tr>
         </tbody>
     </table>
-    <img class="byk" src="https://www.kasandbox.org/programming-images/landscapes/sand-dunes.png" >
+    <img class="byk" src="https://camo.githubusercontent.com/ec02c045e3f4c37f2255f32783469244a9ea17d8/68747470733a2f2f692e6962622e636f2f534a59395947582f44382d42392d41372d45342d443736392d343732372d382d4144312d353733303430392d4231352d42452e706e67" >
     <h3>28.06.2019r.</h3>
     <p>Dzisiaj w nocy przypłynął do Ustki największy galeon w Polsce <strong><em>Dragon</em></strong>. <em>Unicus</em> odpłynął wczoraj i także od rana stoi w Darłówku.Do portu w nocy zagościł kontenerowiec <em>Riona</em> .Przed chwilą wpłynął do portu okręt Marynarki wojennej <em>ORP Wigry</em>.Riona opuściła port ok.16:00</p>
     <h2>Przypłynięcia i odpłynięcia</h2>
