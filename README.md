@@ -40,7 +40,8 @@
     </head>
     <body>
     <nav>
-        <a href="https://witas-w.github.io/strona-g-wna/" class="v">główna</a>
+        <a href="https://witas-w.github.io/witas-bloguje/
+" class="v">główna</a>
         <a href=" https://witas-w.github.io/blog/." class="v">blog</a>
         <a href="https://witas-w.github.io/witas/" class="v">Wakacje 2019</a>
 <a href="" class="v">Galeria zdjęć</a>
