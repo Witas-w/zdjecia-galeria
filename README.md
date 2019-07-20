@@ -42,8 +42,7 @@
     <nav>
         <a href="https://witas-w.github.io/strona-g-wna/" class="v">główna</a>
         <a href=" https://witas-w.github.io/blog/." class="v">blog</a>
-        <a href="https://witas-w.github.io/witas/
-" class="v">Wakacje 2019</a>
+        <a href="https://witas-w.github.io/witas/" class="v">Wakacje 2019</a>
 <a href="" class="v">Galeria obrazów</a>
     </nav>
     <img src="https://camo.githubusercontent.com/ec02c045e3f4c37f2255f32783469244a9ea17d8/68747470733a2f2f692e6962622e636f2f534a59395947582f44382d42392d41372d45342d443736392d343732372d382d4144312d353733303430392d4231352d42452e706e67">
