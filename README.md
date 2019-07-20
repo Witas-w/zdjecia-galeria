@@ -52,7 +52,6 @@
 <img src="https://s6.ifotos.pl/img/15E84589-_qsexsra.jpg">
   <img src="https://s6.ifotos.pl/img/3DF9BB36-_qsexsxn.jpg">  
 <img src="https://s6.ifotos.pl/img/FFB1236D-_qsexsex.jpg">
-<img src="https://i.ibb.co/VYf1ndv/BADC2-D08-BBE0-427-B-BA70-D0-C7441-E870-D.jpg">
-<img src="https://i.ibb.co/TB9CqH2/977-F89-B5-DEAD-4-A94-85-C5-CED9635-A3-E66.jpg">
+
  </body>
 </html>
