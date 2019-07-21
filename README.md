@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>glowna</title>
+        <title>galeria zdjęć</title>
         <style>
             body {
             background-color: grey;
@@ -55,7 +55,7 @@
 <img src="https://s6.ifotos.pl/img/E455A000-_qsexapw.jpg">
 <img src="https://s6.ifotos.pl/img/D279149D-_qsexapq.jpg">
 <img src="https://s6.ifotos.pl/img/55E69563-_qsexahx.jpg">
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/POL_Ustka_ul_Wyszy%C5%84skiego-_ratusz.jpg">
 
  </body>
 </html>
