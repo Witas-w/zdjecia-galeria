@@ -58,6 +58,13 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/POL_Ustka_ul_Wyszy%C5%84skiego-_ratusz.jpg">
 <img src="https://s6.ifotos.pl/img/CB8F85DE-_qsenwns.jpg">
 <img src="https://s6.ifotos.pl/img/E97B76D0-_qsenwna.jpg">
+<img src="https://s6.ifotos.pl/img/FAE9271F-_qsenwqw.png">
+<img src="https://s6.ifotos.pl/img/72235932-_qsenwqe.png">
+
+
+
+
+
 
  </body>
 </html>
