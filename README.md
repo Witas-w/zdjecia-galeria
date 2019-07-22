@@ -60,10 +60,10 @@
 <img src="https://s6.ifotos.pl/img/E97B76D0-_qsenwna.jpg">
 <img src="https://s6.ifotos.pl/img/FAE9271F-_qsenwqw.png">
 <img src="https://s6.ifotos.pl/img/72235932-_qsenwqe.png">
-
-
-
-
+<img src="https://s6.ifotos.pl/img/0068FAFE-_qsenwqs.png">
+<img src="https://s6.ifotos.pl/img/C3431DA6-_qsenwqa.png">
+<img src="https://s6.ifotos.pl/img/E7D4A1FA-_qsensph.png">
+<img src="https://s6.ifotos.pl/img/54B847AF-_qsenspx.png">
 
 
  </body>
