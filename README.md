@@ -33,7 +33,7 @@
                 background:rgb(115, 140, 105);
             }
             
-            .op {
+            .op{
             color: white;
             }
             
