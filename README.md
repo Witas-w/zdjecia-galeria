@@ -77,6 +77,16 @@
 <img src="https://s6.ifotos.pl/img/3FDAA6B6-_qsenqhr.jpg">
 <img src="https://s6.ifotos.pl/img/70AB9560-_qsenqhx.jpg">
 <p>SM PRC 112 pogłębiający kanał portowy</p>
+<img src="https://s6.ifotos.pl/img/CC24A0CB-_qseehnh.jpg">
+<p>Brytyjskie statki wojskowe</p>
+<img src="https://s6.ifotos.pl/img/FF155FBD-_qseehnr.jpg">
+<p>Statek Saba</p>
+<img src="https://s6.ifotos.pl/img/CA2A7108-_qseehne.jpg">
+<p>Plaża zachodnia</p>
+<img src="https://s6.ifotos.pl/img/86E93E14-_qseehns.jpg">
+<p>Falochron zachodni</p>
+<img src="https://s6.ifotos.pl/img/B11AD23B-_qseeher.jpg">
+<p>Statek piracki Dragon widok z pylonu kładki</p>
 
 
 
