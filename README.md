@@ -67,7 +67,7 @@
 <img src="https://s6.ifotos.pl/img/CD2689FD-_qsenqhh.jpg">
 <img src="https://s6.ifotos.pl/img/3FDAA6B6-_qsenqhr.jpg">
 <img src="https://s6.ifotos.pl/img/70AB9560-_qsenqhx.jpg">
-
+<h6>SM PRC 112 pogłębiający kanał portowy</h6>
 
 
 
