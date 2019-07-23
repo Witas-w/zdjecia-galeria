@@ -33,9 +33,6 @@
                 background:rgb(115, 140, 105);
             }
             
-            h6{
-            color: white;
-}
 
             
         </style>
