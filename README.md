@@ -6,7 +6,7 @@
         <style>
             body {
             background-color: grey;
-            Color: white;
+            color: white;
              margin: none;
              text-align: center;
              font-family: cursive;
@@ -33,7 +33,9 @@
                 background:rgb(115, 140, 105);
             }
             
-            
+            h6{
+            color: white;
+}
 
             
         </style>
