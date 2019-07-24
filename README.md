@@ -90,7 +90,7 @@
 <img src="https://s6.ifotos.pl/img/4B30ABE5-_qseersw.jpg">
 <img src="https://s6.ifotos.pl/img/D478BC99-_qseerss.jpg">
 <img src="https://s6.ifotos.pl/img/D4CC5BDF-_qseersa.jpg">
-<p>Osiedle kościelniaka</p>
+<p>Osiedle Kościelniaka</p>
 
 
 
