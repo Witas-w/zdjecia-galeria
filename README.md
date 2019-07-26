@@ -92,7 +92,10 @@
 <img src="https://s6.ifotos.pl/img/D478BC99-_qseerss.jpg">
 <img src="https://s6.ifotos.pl/img/D4CC5BDF-_qseersa.jpg">
 <p>Osiedle Kościelniaka</p>
+<img src="https://s6.ifotos.pl/img/4E942CF9-_qsewwph.jpg">
 
+<img src="https://s6.ifotos.pl/img/333A4427-_qsewwpx.jpg">
+<p>Kładka w Ustce</p>
 
 
  </body>
