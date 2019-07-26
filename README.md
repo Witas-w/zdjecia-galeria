@@ -8,7 +8,7 @@
              font: Arial, sans-serif;
              background: #396f38;
             color: white;
-             margin: none;
+             margin: 0;
              text-align: center;
              font-family: cursive;
               border: 1px solid rgb(230, 25, 25);
