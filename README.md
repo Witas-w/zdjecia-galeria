@@ -5,7 +5,8 @@
         <title>galeria zdjęć</title>
         <style>
             body {
-            background-color: grey;
+             font: Arial, sans-serif;
+             background: #396f38;
             color: white;
              margin: none;
              text-align: center;
